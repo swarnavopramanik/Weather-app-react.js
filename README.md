@@ -1,5 +1,7 @@
 # Weathe App using react.js 
 
+# Task 1
+
 Weather APIs
 
 There are many different types of APIs. One of the most common types, and some of the easiest to use, are weather APIs. Weather APIs pair nicely with geolocation APIs and some actually use geolocation behind the scenes. Most give back easy to understand data that can be impressively cheap to access.
